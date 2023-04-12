@@ -11,8 +11,6 @@ import {
   FooterWrap,
   // FooterWrapText,
   // FooterWrapInput,
-  // InputFlag,
-  // FooterWrapBtn,
 } from './FooterForm.styled';
 import { axiosInstance } from 'service/API/axios';
 
