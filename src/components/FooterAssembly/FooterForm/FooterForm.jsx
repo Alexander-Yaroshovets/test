@@ -17,8 +17,6 @@ import {
 import { axiosInstance } from 'service/API/axios';
 
 export const FooterForm = () => {
-  // const { isDesktop } = useMediaRules();
-
   const validate = values => {
     const errors = {};
     if (!values.email) {
